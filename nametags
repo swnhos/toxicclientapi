@@ -1,0 +1,18 @@
+{
+  "nametags": [
+    {
+      "id": "toxic",
+      "displayName": "toxic",
+      "file": "ícones/toxic_client.png",
+      "color": "#FF0000",
+      "premium": true
+    },
+    {
+      "id": "negao",
+      "displayName": "negao",
+      "file": "ícones/negao.png",
+      "color": "#FF0000",
+      "premium": true
+        }
+  ]
+}
